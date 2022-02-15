@@ -1,7 +1,9 @@
 # Google-App-script-for-google-sheet2-
 
 Coulumn A will be body
+
 Coulumn B will be Subject
+
 Coulumn C will be Header
 
 
